@@ -1,4 +1,4 @@
-# youtube-automate
+# YOUTUBE-AUTOMATE
 
 By using this program you can see youtube videos without opening the app.
 
