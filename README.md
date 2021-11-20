@@ -24,4 +24,15 @@ This program will work only with chrome browser
 ```bash
   https://sites.google.com/a/chromium.org/chromedriver/downloads
 ```
+### Extract it and copy it to the location , given below 
+
+## Screenshots
+
+![App Screenshot](screenshot.png "shot")
+
+
+
+### Then run your python file
+
+
 
